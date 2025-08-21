@@ -1,0 +1,5 @@
+{
+  "name": "Aplikasi Poin Siswa",
+  "description": "A web application for managing student points, including violations and achievements, with features for administrators, teachers, and students.",
+  "requestFramePermissions": []
+}
